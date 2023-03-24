@@ -1,0 +1,28 @@
+<html>
+<head> 
+<title> first project</title>
+
+
+</head>
+
+<body>
+
+<h1>go to page</h1>
+<p>
+    <a href="web23/pages/about/about.html">go to about page</a>
+</p>
+<p>
+    <a href="web23/pages/company/company.html">go to company page</a>
+</p>
+
+<p>
+    <a href="web23/pages/contact/contact.html">go to contact page</a>
+</p>
+
+
+</body>
+
+
+
+
+</html>
