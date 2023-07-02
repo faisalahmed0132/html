@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+
+<html>
+      <head>
+        <title> faisal ahmed fofo</title>
+      </head>
+
+
+      
+       <body>
+        <p>hello world</p>    
+        
+        <img width="500px"  src="image/d1.jpg" alt="d1 not found">  
+                <!--alt to make sure whcih pic are not show so if we write step of pic alt will not see -->
+
+       </body>
+
+
+
+</html>
