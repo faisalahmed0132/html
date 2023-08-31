@@ -1,0 +1,17 @@
+<!-- for use to make conected between name and id so when we click on name its will go  -->
+<li>
+<label  for="a"> name</label>
+<input type="radio" id="a">
+
+<li>
+  <label > password</label>
+  <input type="radio">
+
+
+</li>
+
+<li>
+  <label > email</label>
+  <input type="radio">
+
+</li>
