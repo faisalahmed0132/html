@@ -1,0 +1,61 @@
+<body>
+
+    
+<table  border="2"> <caption>helllo world</caption>
+<thead  bgcolor="blue">
+    <tr>
+        <th>name</th>
+        <th>age</th>
+        <th>salay</th>
+        </tr>
+        
+
+</thead>
+
+
+<tbody><tr>
+    <td >faisal</td>
+    <td>22</td>
+    <td>200$</td>
+    <td rowspan="4">iraq</td>
+
+    </tr>
+    <tr>
+    <td>ali</td>
+    <td>24</td>
+    <td>400$</td>
+    </tr>
+
+
+<tr>
+    <td >jamed</td>
+    <td>22</td>
+    <td rowspan="2">200$</td>
+
+
+</tr>
+<tr>
+    <td >ahmed</td>
+    <td>29</td>
+
+
+</tr></tbody>
+    <tfoot>
+<tr>
+<td colspan="3">totla 2000$</td>
+
+</tr>
+
+    </tfoot>
+
+
+
+
+</table>
+   
+
+
+
+
+
+</html>
