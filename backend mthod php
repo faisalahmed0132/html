@@ -1,0 +1,18 @@
+<body>
+    <form  method="post">
+        <div>
+            <label  for="text">username</label>
+        <input  id="text" placeholder="like john " required name="username2" >
+        
+        </div>
+        <div>
+        <label  for="pass">password</label>
+        <input id="pass" type="password" placeholder="min8" required name="password2">
+        
+        </div>
+        
+        
+        <input type="submit" >
+    </form>
+
+</body>
