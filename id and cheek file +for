@@ -1,17 +1,81 @@
-<!-- for use to make conected between name and id so when we click on name its will go  -->
-<li>
-<label  for="a"> name</label>
-<input type="radio" id="a">
+<body>
 
-<li>
-  <label > password</label>
-  <input type="radio">
+   <!-- for use to make conected between name and id so when we click on name its will go  -->
+<div>
+    <label  for="a"> name</label>
+    <input type="radio" id="a">
+    
+    <div>
+      <label > password</label>
+      <input type="radio">
+    
+    
+    </div>
+    
+    <div>
+      <label > email</label>
+      <input type="radio">
+    
+    </div>
+
+    <form >
+<div>
+   <!-- for use to make conected between name and id so when we click on name its will go  -->
+
+    <label  for="txt"> user name</label>
+    <input id="txt"  type="text" placeholder="like john313">
+
+</div>
+
+<div>
+    <label for="pass" > password</label>
+    <input id="pass" type="password" placeholder="min 8 ">
+
+</div>
+<div>
+    <input type="submit" value=" click here oh ">
+</div>
+    </form>
+        
 
 
-</li>
 
-<li>
-  <label > email</label>
-  <input type="radio">
 
-</li>
+    <fieldset>
+
+
+        <legend> login</legend>
+        <form >
+            <div>
+               <!-- for use to make conected between name and id so when we click on name its will go  -->
+            
+                <label  for="txt"> user name</label>
+                <input id="txt"  type="text" placeholder="like john313">
+            
+            </div>
+            
+            <div>
+                <label for="pass" > password</label>
+                <input id="pass" type="password" placeholder="min 8 ">
+            
+            </div>
+            <div>
+                <input type="submit" value=" click here oh ">
+            </div>
+                </form>
+                    
+
+
+
+
+
+    </fieldset>
+
+</body>
+   
+
+
+
+
+
+</html>
