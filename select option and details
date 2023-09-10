@@ -11,5 +11,69 @@
 
 </details>
 
+ <Label for="CON">WHAT IS YOUR COUNTRY </Label>
+  <select name="COUNTRY"id="CON"><option > select </option>
+   <optgroup label="section 1">
+      <option value="IRAQ" >IRAQ  </option>
+      <option  value="ENGLINAD">ENGLISN ... </option>
+      <option value="KSA" >KSA </option>
+      <option value="LONDON">LONDON </option>
+   </optgroup>
+   <optgroup label="section2">
+    
+      <option value="IRAQ" >baghdad  </option>
+      <option  value="ENGLINAD">al hila ... </option>
+      <option value="KSA" >basra </option>
+      <option value="LONDON">irbel </option>
+
+
+   </optgroup>
+</select>    
+<input type="submit">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</datalist>
+
+
+
+
+
+</FORM>
+
+
+<form >
+ 
+  <input  name="lol" list="lol"  >
+  <datalist  id="lol">
+    <option value="">html </option>
+    <option value="LONDON">c++ </option>
+    <option value="LONDON">python </option>
+    <option value="LONDON">java </option>
+    <option value="LONDON">c sharp </option>
+    <option value="LONDON"> </option>
+    <option value="LONDON"></option>
+    <option value="LONDON">lo3 </option>
+    <option value="LONDON">3 </option> 
+  </datalist>
+  <input type="submit">
+   
+
+
+ 
+  
+</body>
+
+
 
 </html>
