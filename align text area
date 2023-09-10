@@ -1,0 +1,34 @@
+<FOrm>
+  <div>
+    <!-- autofoucs make the line in what i need auto  -->
+    <input  autofocus  minlength="8" type="text" placeholder="enter your contact" name="name ">
+
+
+  </div>
+
+
+  <br>
+<div>
+  <textarea maxlength="8" name="all words" required placeholder="contact ... " cols="40 " rows="8"></textarea>
+
+
+</div>
+<input type="submit">
+
+
+
+
+
+<br>
+<br>
+<hr>
+<hr>
+
+<label for="fname">First name:</label>
+<input type="text" id="fname" name="fname"><br><br>
+<label for="country">Country:</label>  
+<input type="text" id="country" name="country" value="Norway" readonly><br><br>
+<!-- read only will send wth summit -->
+<input type="submit" value="Submit">
+</FOrm>
+
